@@ -22,7 +22,7 @@
 
 </div>
 
-## A collection of markdown notes about Modern C++.
+## A collection of markdown notes about Modern C++:
 
 Modern C++ Notes is a collection of markdown files that cover the basics and advanced topics of Modern C++. These notes are created using Obsidian, a powerful knowledge base that works on top of a local folder of plain text Markdown files. The notes are organized into topics, each topic contains categories. Each category contains subtopics with explanations, examples, and tables. The notes are intended to help anyone who wants to learn or review Modern C++ in a concise and comprehensive way.
 
