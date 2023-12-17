@@ -20,12 +20,6 @@
 ![GitHub merged PRs](https://img.shields.io/github/issues-pr-closed/Ali-Elbana/Modern-Cpp-Notes?style=flat-square)
 </div>
 
-<div>
-  
-https://github.com/Ali-Elbana/STL-Notes/assets/97269796/d89373c6-0f0e-4df3-81e4-fccc99c37240
-
-</div>
-
 ## A collection of markdown notes about Modern C++.
 
 Modern C++ Notes is a collection of markdown files that cover the basics and advanced topics of Modern C++. These notes are created using Obsidian, a powerful knowledge base that works on top of a local folder of plain text Markdown files. The notes are organized into topics, each topic contains categories. Each category contains subtopics with explanations, examples, and tables. The notes are intended to help anyone who wants to learn or review Modern C++ in a concise and comprehensive way.
