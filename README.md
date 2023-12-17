@@ -1,5 +1,5 @@
 <div>
-<img align="left" src="https://github.com/Ali-Elbana/Modern-Cpp-Notes/assets/97269796/5be2e670-cee4-4d7f-a179-7eb3139df8c3" alt="STL Notes Logo" width="350">
+<img align="left" src="https://github.com/Ali-Elbana/Modern-Cpp-Notes/assets/97269796/1105d36f-a3c5-4166-b3d7-26d5538df84a" alt="STL Notes Logo" width="350">
 
 # **Modern C++ Notes: A Summary Guide to Modern C++**
 
