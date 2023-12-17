@@ -2,7 +2,7 @@
   
 <img align="left" src="https://github.com/Ali-Elbana/Modern-Cpp-Notes/assets/97269796/1105d36f-a3c5-4166-b3d7-26d5538df84a" alt="STL Notes Logo" width="350">
 
-# **A Summary Guide to Modern C++**
+# **Modern C++ Notes: A Summary Guide to Modern C++**
 
 [![GitHub stars](https://img.shields.io/github/stars/Ali-Elbana/Modern-Cpp-Notes?style=social)](https://github.com/Ali-Elbana/Modern-Cpp-Notes/stargazers) 
 [![GitHub forks](https://img.shields.io/github/forks/Ali-Elbana/Modern-Cpp-Notes?style=social)](https://github.com/Ali-Elbana/Modern-Cpp-Notes/network/members) 
@@ -22,8 +22,6 @@
 
 </div>
 
-<div>
-  
 ## A collection of markdown notes about Modern C++.
 
 Modern C++ Notes is a collection of markdown files that cover the basics and advanced topics of Modern C++. These notes are created using Obsidian, a powerful knowledge base that works on top of a local folder of plain text Markdown files. The notes are organized into topics, each topic contains categories. Each category contains subtopics with explanations, examples, and tables. The notes are intended to help anyone who wants to learn or review Modern C++ in a concise and comprehensive way.
@@ -95,7 +93,7 @@ If you have any questions, suggestions, or feedback regarding these STL notes, p
 ## Acknowledgments:
 
 I would like to express my gratitude to the contributors and supporters who would help in creating and improving these Modern C++ notes. Your contributions are greatly appreciated.
-</div>
+
 
 
 
