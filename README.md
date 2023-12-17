@@ -58,7 +58,7 @@ Modern C++ Notes is a collection of markdown files that cover the basics and adv
 
 ## Installation and Usage:
 
-You can access the STL notes directly on GitHub by browsing the repository's files. The notes are organized in subdirectories and files based on different components of the STL. You can simply navigate through the directories to find the topics you are interested in.
+You can access the Modern C++ notes directly on GitHub by browsing the repository's files. The notes are organized in subdirectories and files based on different topics of the Modern C++. You can simply navigate through the directories to find the topics you are interested in.
 
 If you prefer to have a local copy of the notes, you can clone the repository to your machine.
 
@@ -88,15 +88,15 @@ Contributions to these STL notes are welcome! If you have any suggestions, impro
 
 ## License:
 
-This project is licensed under the GNU GPLv3 License. Feel free to use, modify, and distribute the STL notes, following the terms of the license.
+This project is licensed under the GNU GPLv3 License. Feel free to use, modify, and distribute the Modern C++ notes, following the terms of the license.
 
 ## Contact Information:
 
-If you have any questions, suggestions, or feedback regarding these STL notes, please feel free to contact me at **alitheboss922@gmail.com** with subject [STL Notes].
+If you have any questions, suggestions, or feedback regarding these STL notes, please feel free to contact me at **alitheboss922@gmail.com** with subject [Modern C++ Notes].
 
 ## Acknowledgments:
 
-I would like to express my gratitude to the contributors and supporters who would help in creating and improving these STL notes. Your contributions are greatly appreciated.
+I would like to express my gratitude to the contributors and supporters who would help in creating and improving these Modern C++ notes. Your contributions are greatly appreciated.
 
 
 
