@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Getting started/1.4-Comments.md",
+                "file": "1-Getting started/1.7-Summary & Defined Terms.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Getting started/1.4-Comments.md",
+                "file": "1-Getting started/1.7-Summary & Defined Terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Getting started/1.4-Comments.md",
+                "file": "1-Getting started/1.7-Summary & Defined Terms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Getting started/1.4-Comments.md"
+                "file": "1-Getting started/1.7-Summary & Defined Terms.md"
               }
             }
           }
@@ -160,15 +160,18 @@
   },
   "active": "63a70eee6733e100",
   "lastOpenFiles": [
-    "1-Getting started/1.3-First look at Input Output.md",
-    "1-Getting started/1.2-First C++ program.md",
-    "1-Getting started/1.1-What is C++.md",
-    "1-Getting started/1.4-Comments.md",
+    "1-Getting started/1.6-Introducing Classes.md",
+    "1-Getting started/1.7-Summary & Defined Terms.md",
     "File IO/1-Basics.md",
-    "File IO/3-Changing and Getting the current line position.md",
-    "1-Getting started",
-    "File IO/2-Copy utility.md",
+    "1-Getting started/1.5-Flow of control.md",
+    "1-Getting started/1.1-What is C++.md",
+    "1-Getting started/1.2-First C++ program.md",
     "File IO/4-Binary IO.md",
+    "File IO/2-Copy utility.md",
+    "File IO/3-Changing and Getting the current line position.md",
+    "1-Getting started/1.4-Comments.md",
+    "1-Getting started/1.3-First look at Input Output.md",
+    "1-Getting started",
     "Pasted image 20231216212507.png",
     "File IO"
   ]
