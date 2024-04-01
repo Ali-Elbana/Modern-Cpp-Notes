@@ -67,8 +67,10 @@ git clone https://github.com/Ali-Elbana/Modern-Cpp-Notes.git
 
 ## Credits:
 
-`The credits of most of the images used in these notes are going to Eng. Umar Lone from:`
-- [Complete Modern C++ (C++11/14/17) Course](https://www.udemy.com/course/beg-modern-cpp/)
+`The credits of most of the images used in these notes are going to:`
+
+- [C++ Primer, 5th Edition](https://www.informit.com/store/c-plus-plus-primer-0321714113).
+- [Complete Modern C++ (C++11/14/17) Course](https://www.udemy.com/course/beg-modern-cpp/).
 
 ## Contribution Guidelines:
 
