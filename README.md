@@ -26,7 +26,7 @@
 
 Modern C++ Notes is a collection of markdown files that cover the basics and advanced topics of Modern C++. These notes are created using Obsidian, a powerful knowledge base that works on top of a local folder of plain text Markdown files. The notes are organized into topics, each topic contains categories. Each category contains subtopics with explanations, examples, and tables. The notes are intended to help anyone who wants to learn or review Modern C++ in a concise and comprehensive way.
 
-* Introduction to C++:  .
+* Getting started:  .
 * 
 * 
 * 
@@ -88,7 +88,7 @@ This project is licensed under the GNU GPLv3 License. Feel free to use, modify, 
 
 ## Contact Information:
 
-If you have any questions, suggestions, or feedback regarding these STL notes, please feel free to contact me at **alitheboss922@gmail.com** with subject [Modern C++ Notes].
+If you have any questions, suggestions, or feedback regarding these notes, please feel free to contact me at **alitheboss922@gmail.com** with subject [Modern C++ Notes].
 
 ## Acknowledgments:
 
