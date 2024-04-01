@@ -48,9 +48,7 @@ Modern C++ Notes is a collection of markdown files that cover the basics and adv
 
 ## Mind map for the notes:
 
-
-
-`To get the full view of the Mind map and discover more:` [STL Notes-Mind map (whimsical.com)](https://whimsical.com/stl-notes-mind-map-KoqDJWhZLZXzorCjVRCDxa)
+`To get the full view of the Mind map and discover more:` [C++ Notes-Mind map (whimsical.com)](https://whimsical.com/c-notes-Bw1psx9ccXbrGeWpSUS9R5)
 
 ## Installation and Usage:
 
