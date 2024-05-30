@@ -1,4 +1,5 @@
-
+<div>
+  
 <img align="left" src="https://github.com/Ali-Elbana/Modern-Cpp-Notes/assets/97269796/1105d36f-a3c5-4166-b3d7-26d5538df84a" alt="STL Notes Logo" width="350">
 
 # **Modern C++ Notes: A Summary Guide to Modern C++**
@@ -18,6 +19,8 @@
 
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Ali-Elbana/Modern-Cpp-Notes)](https://github.com/Ali-Elbana/Modern-Cpp-Notes/pulls)
 ![GitHub merged PRs](https://img.shields.io/github/issues-pr-closed/Ali-Elbana/Modern-Cpp-Notes?style=flat-square)
+
+</div>
 
 ## A collection of markdown notes about Modern C++:
 
