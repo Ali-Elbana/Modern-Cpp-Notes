@@ -2,8 +2,6 @@
   
 <img align="left" src="https://github.com/Ali-Elbana/Modern-Cpp-Notes/assets/97269796/1105d36f-a3c5-4166-b3d7-26d5538df84a" alt="STL Notes Logo" width="350">
 
-
-
 # **Modern C++ Notes: A Summary Guide to Modern C++**
 
 [![GitHub stars](https://img.shields.io/github/stars/Ali-Elbana/Modern-Cpp-Notes?style=social)](https://github.com/Ali-Elbana/Modern-Cpp-Notes/stargazers) 
@@ -30,7 +28,7 @@ Modern C++ Notes is a collection of markdown files that cover the basics and adv
 
 * Getting started: Introduces most of the basic elements of C++.
 * Variables and basic types: Covers the built-in types and how C++ supports more complicated types.
-* 
+* Strings, Vectors and Arrays.
 * 
 * 
 *
