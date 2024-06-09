@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Strings, Vectors and Arrays/3.1-.md",
+                "file": "3-Strings, Vectors and Arrays/3.3-Library `Vector` Type.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Getting Started/1.7-Summary & Defined Terms.md",
+                "file": "2-Variables and Basic Types/2.4-const Qualifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Strings, Vectors and Arrays/3.1-.md",
+                "file": "3-Strings, Vectors and Arrays/3.3-Library `Vector` Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Strings, Vectors and Arrays/3.1-.md",
+                "file": "3-Strings, Vectors and Arrays/3.3-Library `Vector` Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Strings, Vectors and Arrays/3.1-.md"
+                "file": "3-Strings, Vectors and Arrays/3.3-Library `Vector` Type.md"
               }
             }
           }
@@ -178,16 +178,18 @@
   },
   "active": "63a70eee6733e100",
   "lastOpenFiles": [
-    "2-Variables and Basic Types/2.6-Summary & Defined Terms.md",
-    "3-Strings, Vectors and Arrays/3.1-.md",
-    "3-Strings, Vectors and Arrays",
-    "1-Getting Started/1.7-Summary & Defined Terms.md",
-    "2-Variables and Basic Types/2.2-Variables.md",
-    "2-Variables and Basic Types/2.5-Dealing with Types.md",
-    "2-Variables and Basic Types/2.4-const Qualifier.md",
     "File IO/1-Basics.md",
-    "2-Variables and Basic Types/2.1-Primitive built-in Types.md",
+    "3-Strings, Vectors and Arrays/3.3-Library `Vector` Type.md",
+    "3-Strings, Vectors and Arrays/3.2-Library `string` Type.md",
+    "2-Variables and Basic Types/2.4-const Qualifier.md",
     "2-Variables and Basic Types/2.3-Compound Types.md",
+    "1-Getting Started/1.7-Summary & Defined Terms.md",
+    "3-Strings, Vectors and Arrays/3.1-Namespace `using` Declarations.md",
+    "2-Variables and Basic Types/2.6-Summary & Defined Terms.md",
+    "2-Variables and Basic Types/2.5-Dealing with Types.md",
+    "3-Strings, Vectors and Arrays",
+    "2-Variables and Basic Types/2.2-Variables.md",
+    "2-Variables and Basic Types/2.1-Primitive built-in Types.md",
     "1-Getting Started/1.6-Introducing Classes.md",
     "1-Getting Started/1.4-Comments.md",
     "1-Getting Started/1.5-Flow of control.md",
