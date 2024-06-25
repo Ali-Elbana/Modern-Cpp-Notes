@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Strings, Vectors and Arrays/3.3-Library `Vector` Type.md",
+                "file": "3-Strings, Vectors and Arrays/3.7-Summary & Defined Terms.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,12 +32,24 @@
             }
           },
           {
+            "id": "d00d8e397e6962eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Strings, Vectors and Arrays/3.3-Library `Vector` Type.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1666cc54a9f061d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Variables and Basic Types/2.4-const Qualifier.md",
+                "file": "2-Variables and Basic Types/2.5-Dealing with Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Strings, Vectors and Arrays/3.3-Library `Vector` Type.md",
+                "file": "3-Strings, Vectors and Arrays/3.7-Summary & Defined Terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Strings, Vectors and Arrays/3.3-Library `Vector` Type.md",
+                "file": "3-Strings, Vectors and Arrays/3.7-Summary & Defined Terms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Strings, Vectors and Arrays/3.3-Library `Vector` Type.md"
+                "file": "3-Strings, Vectors and Arrays/3.7-Summary & Defined Terms.md"
               }
             }
           }
@@ -178,15 +190,19 @@
   },
   "active": "63a70eee6733e100",
   "lastOpenFiles": [
-    "File IO/1-Basics.md",
+    "2-Variables and Basic Types/2.6-Summary & Defined Terms.md",
+    "3-Strings, Vectors and Arrays/3.7-Summary & Defined Terms.md",
+    "3-Strings, Vectors and Arrays/3.6-Multidimensional Arrays.md",
     "3-Strings, Vectors and Arrays/3.3-Library `Vector` Type.md",
+    "3-Strings, Vectors and Arrays/3.5-Arrays.md",
+    "File IO/1-Basics.md",
+    "2-Variables and Basic Types/2.5-Dealing with Types.md",
+    "3-Strings, Vectors and Arrays/3.4-Introducing Iterators.md",
     "3-Strings, Vectors and Arrays/3.2-Library `string` Type.md",
+    "3-Strings, Vectors and Arrays/3.1-Namespace `using` Declarations.md",
     "2-Variables and Basic Types/2.4-const Qualifier.md",
     "2-Variables and Basic Types/2.3-Compound Types.md",
     "1-Getting Started/1.7-Summary & Defined Terms.md",
-    "3-Strings, Vectors and Arrays/3.1-Namespace `using` Declarations.md",
-    "2-Variables and Basic Types/2.6-Summary & Defined Terms.md",
-    "2-Variables and Basic Types/2.5-Dealing with Types.md",
     "3-Strings, Vectors and Arrays",
     "2-Variables and Basic Types/2.2-Variables.md",
     "2-Variables and Basic Types/2.1-Primitive built-in Types.md",
