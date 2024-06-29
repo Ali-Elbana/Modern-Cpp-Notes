@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Expressions/4.11-Type Conversions.md",
+                "file": "4-Expressions/4.13-Summary & Defined Terms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "197139e724438fc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Strings, Vectors and Arrays/3.7-Summary & Defined Terms.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Strings, Vectors and Arrays/3.3-Library `Vector` Type.md",
+                "file": "3-Strings, Vectors and Arrays/3.2-Library `string` Type.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Expressions/4.11-Type Conversions.md",
+                "file": "4-Expressions/4.13-Summary & Defined Terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Expressions/4.11-Type Conversions.md",
+                "file": "4-Expressions/4.13-Summary & Defined Terms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Expressions/4.11-Type Conversions.md"
+                "file": "4-Expressions/4.13-Summary & Defined Terms.md"
               }
             }
           }
@@ -190,34 +202,34 @@
   },
   "active": "63a70eee6733e100",
   "lastOpenFiles": [
-    "File IO/1-Basics.md",
+    "3-Strings, Vectors and Arrays/3.7-Summary & Defined Terms.md",
+    "4-Expressions/4.13-Summary & Defined Terms.md",
+    "4-Expressions/4.12-Operator Precedence Table.md",
     "4-Expressions/4.11-Type Conversions.md",
+    "3-Strings, Vectors and Arrays/3.2-Library `string` Type.md",
+    "2-Variables and Basic Types/2.5-Dealing with Types.md",
+    "File IO/1-Basics.md",
+    "3-Strings, Vectors and Arrays/3.3-Library `Vector` Type.md",
+    "4-Expressions/4.2-Arithmetic Operators.md",
     "4-Expressions/4.10-Comma Operator.md",
     "4-Expressions/4.9-The sizeof Operator.md",
     "4-Expressions/4.8-The Bitwise Operators.md",
-    "3-Strings, Vectors and Arrays/3.3-Library `Vector` Type.md",
     "4-Expressions/4.7-The Conditional Operators.md",
     "4-Expressions/4.6-The Member Access Operators.md",
     "4-Expressions/4.3-Logical and Relational Operators.md",
     "4-Expressions/4.5-Increment and Decrement Operators.md",
     "4-Expressions/4.4-Assignment Operators.md",
-    "4-Expressions/4.2-Arithmetic Operators.md",
     "4-Expressions/4.1-Fundamentals.md",
-    "3-Strings, Vectors and Arrays/3.7-Summary & Defined Terms.md",
     "4-Expressions",
     "2-Variables and Basic Types/2.6-Summary & Defined Terms.md",
     "3-Strings, Vectors and Arrays/3.6-Multidimensional Arrays.md",
     "3-Strings, Vectors and Arrays/3.5-Arrays.md",
-    "2-Variables and Basic Types/2.5-Dealing with Types.md",
     "3-Strings, Vectors and Arrays/3.4-Introducing Iterators.md",
-    "3-Strings, Vectors and Arrays/3.2-Library `string` Type.md",
     "3-Strings, Vectors and Arrays/3.1-Namespace `using` Declarations.md",
     "2-Variables and Basic Types/2.4-const Qualifier.md",
     "2-Variables and Basic Types/2.3-Compound Types.md",
     "1-Getting Started/1.7-Summary & Defined Terms.md",
     "3-Strings, Vectors and Arrays",
-    "2-Variables and Basic Types/2.2-Variables.md",
-    "2-Variables and Basic Types/2.1-Primitive built-in Types.md",
     "2-Variables and Basic Types",
     "1-Getting Started",
     "Pasted image 20231216212507.png",
