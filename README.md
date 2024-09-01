@@ -30,7 +30,7 @@ Modern C++ Notes is a collection of markdown files that cover the basics and adv
 * Variables and Basic Types.
 * Strings, Vectors and Arrays.
 * Expressions.
-* 
+* Functions.
 *
 *
 *
