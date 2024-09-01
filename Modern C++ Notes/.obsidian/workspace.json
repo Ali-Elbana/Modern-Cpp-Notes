@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-Functions/6.1-Function Basics.md",
+                "file": "6-Functions/6.3-Return Types and the return Statement.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2286a2b7aa465dc5",
+            "id": "b4d1657bdf5d7027",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Expressions/4.13-Summary & Defined Terms.md",
+                "file": "5-Statements/5.4-Iterative Statements.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-Functions/6.1-Function Basics.md",
+                "file": "6-Functions/6.3-Return Types and the return Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6-Functions/6.1-Function Basics.md",
+                "file": "6-Functions/6.3-Return Types and the return Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-Functions/6.1-Function Basics.md"
+                "file": "6-Functions/6.3-Return Types and the return Statement.md"
               }
             }
           }
@@ -190,15 +190,17 @@
   },
   "active": "63a70eee6733e100",
   "lastOpenFiles": [
-    "5-Statements/5.7-Summary & Defined Terms.md",
-    "6-Functions/6.1-Function Basics.md",
-    "6-Functions",
-    "4-Expressions/4.13-Summary & Defined Terms.md",
-    "5-Statements/5.6-try Blocks and Exception Handling.md",
-    "3-Strings, Vectors and Arrays/3.2-Library `string` Type.md",
-    "5-Statements/5.5-Jump Statements.md",
+    "6-Functions/6.2-Argument Passing.md",
+    "6-Functions/6.3-Return Types and the return Statement.md",
     "2-Variables and Basic Types/2.5-Dealing with Types.md",
+    "3-Strings, Vectors and Arrays/3.2-Library `string` Type.md",
     "5-Statements/5.4-Iterative Statements.md",
+    "5-Statements/5.6-try Blocks and Exception Handling.md",
+    "6-Functions/6.1-Function Basics.md",
+    "4-Expressions/4.13-Summary & Defined Terms.md",
+    "5-Statements/5.7-Summary & Defined Terms.md",
+    "6-Functions",
+    "5-Statements/5.5-Jump Statements.md",
     "File IO/1-Basics.md",
     "5-Statements/5.3-Conditional Statements.md",
     "5-Statements/5.2-Statement Scope.md",
@@ -216,8 +218,6 @@
     "4-Expressions/4.6-The Member Access Operators.md",
     "4-Expressions/4.3-Logical and Relational Operators.md",
     "4-Expressions/4.5-Increment and Decrement Operators.md",
-    "4-Expressions/4.4-Assignment Operators.md",
-    "4-Expressions/4.1-Fundamentals.md",
     "4-Expressions",
     "3-Strings, Vectors and Arrays",
     "2-Variables and Basic Types",
