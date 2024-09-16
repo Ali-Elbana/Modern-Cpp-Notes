@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-Functions/6.4-Overloaded Functions.md",
+                "file": "6-Functions/6.5-Features for Specialized Uses.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,6 +50,18 @@
               "type": "markdown",
               "state": {
                 "file": "2-Variables and Basic Types/2.5-Dealing with Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8bd8c2580bc0e83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Functions/6.3-Return Types and the return Statement.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-Functions/6.4-Overloaded Functions.md",
+                "file": "6-Functions/6.5-Features for Specialized Uses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6-Functions/6.4-Overloaded Functions.md",
+                "file": "6-Functions/6.5-Features for Specialized Uses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-Functions/6.4-Overloaded Functions.md"
+                "file": "6-Functions/6.5-Features for Specialized Uses.md"
               }
             }
           }
@@ -190,11 +202,12 @@
   },
   "active": "63a70eee6733e100",
   "lastOpenFiles": [
-    "2-Variables and Basic Types/2.5-Dealing with Types.md",
-    "3-Strings, Vectors and Arrays/3.2-Library `string` Type.md",
     "5-Statements/5.4-Iterative Statements.md",
+    "6-Functions/6.5-Features for Specialized Uses.md",
     "6-Functions/6.4-Overloaded Functions.md",
     "6-Functions/6.3-Return Types and the return Statement.md",
+    "2-Variables and Basic Types/2.5-Dealing with Types.md",
+    "3-Strings, Vectors and Arrays/3.2-Library `string` Type.md",
     "3-Strings, Vectors and Arrays/3.4-Introducing Iterators.md",
     "3-Strings, Vectors and Arrays/3.3-Library `Vector` Type.md",
     "6-Functions/6.2-Argument Passing.md",
@@ -217,7 +230,6 @@
     "4-Expressions/4.9-The sizeof Operator.md",
     "4-Expressions/4.8-The Bitwise Operators.md",
     "4-Expressions/4.7-The Conditional Operators.md",
-    "4-Expressions/4.6-The Member Access Operators.md",
     "4-Expressions",
     "3-Strings, Vectors and Arrays",
     "2-Variables and Basic Types",
