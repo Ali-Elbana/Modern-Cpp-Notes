@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-Functions/6.5-Features for Specialized Uses.md",
+                "file": "6-Functions/6.7-Pointers to Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-Functions/6.5-Features for Specialized Uses.md",
+                "file": "6-Functions/6.7-Pointers to Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6-Functions/6.5-Features for Specialized Uses.md",
+                "file": "6-Functions/6.7-Pointers to Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-Functions/6.5-Features for Specialized Uses.md"
+                "file": "6-Functions/6.7-Pointers to Functions.md"
               }
             }
           }
@@ -203,6 +203,8 @@
   "active": "63a70eee6733e100",
   "lastOpenFiles": [
     "5-Statements/5.4-Iterative Statements.md",
+    "6-Functions/6.7-Pointers to Functions.md",
+    "6-Functions/6.6-Function Matching.md",
     "6-Functions/6.5-Features for Specialized Uses.md",
     "6-Functions/6.4-Overloaded Functions.md",
     "6-Functions/6.3-Return Types and the return Statement.md",
@@ -228,8 +230,6 @@
     "4-Expressions/4.2-Arithmetic Operators.md",
     "4-Expressions/4.10-Comma Operator.md",
     "4-Expressions/4.9-The sizeof Operator.md",
-    "4-Expressions/4.8-The Bitwise Operators.md",
-    "4-Expressions/4.7-The Conditional Operators.md",
     "4-Expressions",
     "3-Strings, Vectors and Arrays",
     "2-Variables and Basic Types",
