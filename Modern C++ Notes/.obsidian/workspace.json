@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-Functions/6.8-Summary & Defined Terms.md",
+                "file": "7-Classes/7.2-Access Control and Encapsulation.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "7.2-Access Control and Encapsulation"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "5-Statements/5.4-Iterative Statements.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "5.4-Iterative Statements"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "3-Strings, Vectors and Arrays/3.2-Library `string` Type.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "3.2-Library `string` Type"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "2-Variables and Basic Types/2.5-Dealing with Types.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2.5-Dealing with Types"
             }
           }
         ]
@@ -75,7 +83,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -90,7 +100,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -98,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -121,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-Functions/6.8-Summary & Defined Terms.md",
+                "file": "7-Classes/7.1-Defining Abstract Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +143,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 7.1-Defining Abstract Data Types"
             }
           },
           {
@@ -138,10 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6-Functions/6.8-Summary & Defined Terms.md",
+                "file": "7-Classes/7.1-Defining Abstract Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 7.1-Defining Abstract Data Types"
             }
           },
           {
@@ -152,7 +170,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -161,8 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-Functions/6.8-Summary & Defined Terms.md"
-              }
+                "file": "7-Classes/7.1-Defining Abstract Data Types.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 7.1-Defining Abstract Data Types"
             }
           }
         ]
@@ -190,16 +212,20 @@
   },
   "active": "63a70eee6733e100",
   "lastOpenFiles": [
+    "5-Statements/5.4-Iterative Statements.md",
+    "7-Classes/7.2-Access Control and Encapsulation.md",
+    "7-Classes/7.1-Defining Abstract Data Types.md",
     "2-Variables and Basic Types/2.5-Dealing with Types.md",
+    "3-Strings, Vectors and Arrays/3.2-Library `string` Type.md",
+    "2-Variables and Basic Types/2.3-Compound Types.md",
+    "6-Functions/6.8-Summary & Defined Terms.md",
+    "7-Classes",
     "5-Statements/5.7-Summary & Defined Terms.md",
     "6-Functions/6.3-Return Types and the return Statement.md",
-    "6-Functions/6.8-Summary & Defined Terms.md",
     "6-Functions/6.7-Pointers to Functions.md",
     "6-Functions/6.6-Function Matching.md",
-    "5-Statements/5.4-Iterative Statements.md",
     "6-Functions/6.5-Features for Specialized Uses.md",
     "6-Functions/6.4-Overloaded Functions.md",
-    "3-Strings, Vectors and Arrays/3.2-Library `string` Type.md",
     "3-Strings, Vectors and Arrays/3.4-Introducing Iterators.md",
     "3-Strings, Vectors and Arrays/3.3-Library `Vector` Type.md",
     "6-Functions/6.2-Argument Passing.md",
@@ -215,9 +241,6 @@
     "4-Expressions/4.11-Type Conversions.md",
     "5-Statements",
     "3-Strings, Vectors and Arrays/3.7-Summary & Defined Terms.md",
-    "4-Expressions/4.12-Operator Precedence Table.md",
-    "4-Expressions/4.2-Arithmetic Operators.md",
-    "4-Expressions/4.10-Comma Operator.md",
     "4-Expressions",
     "3-Strings, Vectors and Arrays",
     "2-Variables and Basic Types",
